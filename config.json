@@ -1,0 +1,9 @@
+{
+	"start": "##",
+	"threshhold": 0.15,
+	"macros": [{
+			"key": "e",
+			"macro": "example"
+		}
+	]
+}
